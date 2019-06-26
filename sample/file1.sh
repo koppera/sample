@@ -1,3 +1,3 @@
 !#/bin/bash
-read name 
-echo "my name $name"
+
+echo "my name is kiran kumar"
